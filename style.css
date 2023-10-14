@@ -1,0 +1,237 @@
+body{
+background: #2F1893;
+width: 1400px;
+height: 890px;
+
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+display: flex;
+align-items: center;
+margin-top: 65px;
+margin-left: 213px;
+width: 972px;
+height: 40px;
+
+}
+#Startup3{
+width: 106px;
+height: 32px;
+position:relative;
+left: 2px;
+color:white;
+font-weight: 700;
+font-size: 24px;
+margin-left: 2px;
+font-family: 'DM Sans', sans-serif;
+}
+#Startup3div{
+ width:45%;
+}
+#menubar{
+display: flex;
+align-items: center;
+width: 503px;
+height: 40px;
+margin-left:0px;
+
+}
+#menubar p{
+  color: white;
+  font-size:18px;
+  position:absolute;
+  font-family: 'DM Sans', sans-serif;
+  
+}
+#Purchasebtn{
+width: 120px;
+height: 40px;
+position: absolute;
+left: 1065px;
+font-size: 18px;
+color: white;
+background-color:#E93A7D;
+border: none;
+font-weight: 500;
+border-radius: 100px;
+font-family: 'DM Sans', sans-serif;
+
+}
+
+#Overview{
+	position: absolute;
+	left: 682px;
+	opacity: 30%;
+}
+#Prices{
+  position: absolute;
+  left: 795px;
+	
+}
+#Blog{
+	position: absolute;
+  left: 878px;
+}
+#Feedback{
+	position: absolute;
+    left: 947px;
+}
+#fstcontainer{
+width: 427px;
+height: 496px;
+margin-top: 110px;
+margin-left: 209px;
+
+
+}
+#fstcontainer h2{
+font-family: DM Sans;
+font-size: 58px;
+font-weight: 700;
+line-height: 70px;
+text-align: left;
+color: white;
+height: 217px;
+font-family: 'DM Sans', sans-serif;
+}
+#fstcontainer h5{
+ width: 362px;
+ height: 160px;
+ color: white;
+ margin-top: 10px;
+ font-size: 22px;
+ font-family: 'DM Sans', sans-serif;
+}
+#fstcontainer button{
+ width: 157px;
+ height: 50px;
+ position:absolute;
+ top: 600px;
+ font-size: 18px;
+ color: #FFFFFF;
+ background: #E93A7D;
+ border: none;
+ border-radius: 100px;
+ font-family: 'DM Sans', sans-serif;
+ 
+}
+#signupform{
+width:470px;
+height: 600px;
+background-color: #EBEAED;
+position:absolute;
+left: 715px;
+top: 187px;
+text-align:center;
+
+}
+#signupform h3{
+margin-top: 40px;
+margin-left: 110px;
+width: 247px;
+height: 52px;
+font-size:40px;
+font-weight: 700;
+color: #1E0E62;
+font-family: 'DM Sans', sans-serif;
+
+}
+
+.input{
+margin-top: 20px;
+width: 330px;
+height: 50px;
+border-radius: 100px;
+color: #15143966;
+border: none; 
+padding-left:24px;
+/*padding-top: 10px;*/
+font-size: 18px;
+display: flex;
+align-items: center;
+margin-left: 12.5%;
+font-family: 'DM Sans', sans-serif;
+}
+#checkboxid{
+width: 24px;
+height: 24px;
+position:relative;
+right:150px;
+top: 18px
+/*top: 171px;*/
+}
+
+#iagree{
+  font-weight:400;
+  font-size: 16px;
+  color: #15143966;
+  position: relative;
+  bottom: 5px;
+  right: 20px;
+  font-family: 'DM Sans', sans-serif;
+}
+#signin{
+ width: 350px;
+height: 50px;
+background: #482BE7;
+border: none;
+border-radius: 100px;
+color: white;
+font-size: 18px;
+margin-top: 20px;
+font-family: 'DM Sans', sans-serif;
+}
+ #LoginviaTwitter{
+  width: 350px;
+height: 50px;
+border: none;
+border-radius: 100px;
+color: white;
+background: #1DA1F2;
+font-size: 18px;
+margin-top: 15px;
+font-family: 'DM Sans', sans-serif;
+}
+#doyouhave{
+  font-size: 18px;
+  color:#15143966;
+  position: relative;
+  top: 20px;
+  font-size: 18px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+a{
+text-decoration: none;
+color:#25DAC5;
+position: absolute;
+left:73%;
+bottom: 102.5px;
+font-size: 18px;
+font-family: 'DM Sans', sans-serif;
+}
+#line1{
+  width: 141px;
+  height: 2px;
+  background-color: lightgray;
+  position: absolute;
+  top: 390px;
+  left: 15%
+}
+#line2{
+  width: 141px;
+  height: 2px;
+  background-color:lightgray;
+  position: absolute;
+  top: 390px;
+  left: 55%;
+  color: #EBEAED
+}
+#or{
+  margin-top: 10px;
+  margin-bottom:10px;
+  font-family: 'DM Sans', sans-serif;
+}
